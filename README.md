@@ -1,2 +1,2 @@
 # hashing-passwords
-hashing passwords python app
+hashing passwords python-based app
